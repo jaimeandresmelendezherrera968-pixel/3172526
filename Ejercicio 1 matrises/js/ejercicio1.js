@@ -1,8 +1,7 @@
 /*
      Ejercicio: ejercicio1
      Fecha: 29 sept 2025
-     Autor: jaime melendez
-
+     Autor: jaime melendez 
 */
 
 
