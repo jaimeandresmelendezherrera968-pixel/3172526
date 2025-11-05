@@ -1,7 +1,7 @@
 /*     
      Ejercicio: ley de newton
      Fecha: 23 de sept 2025
-     Autor: Christopher Gracia
+     Autor:  jaime melendez
 */
 
 let mass = 5;
