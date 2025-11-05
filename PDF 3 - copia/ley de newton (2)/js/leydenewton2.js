@@ -1,7 +1,7 @@
 /*     
      Ejercicio: ley newton 2
      Fecha: 23 de sept 2025
-     Autor: Christopher Gracia
+     Autor: jaime melendez
 */
 
 let reactionForce =2;
