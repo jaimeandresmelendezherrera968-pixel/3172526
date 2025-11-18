@@ -1,6 +1,6 @@
 /*
     Titulo: Inclined Plane
-    Autor: Christopher Alexander Gracia Jaimes
+    Autor:  Jaimes
     Fecha: 28 de septiembre de 2025
 */
 
