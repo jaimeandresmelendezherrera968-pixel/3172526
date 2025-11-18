@@ -1,7 +1,7 @@
 /*     
      Ejercicio: resulting force
      Fecha: 25 de sept 2025
-     Autor: Christopher Gracia
+     Autor:  jaime
 */
 
 
