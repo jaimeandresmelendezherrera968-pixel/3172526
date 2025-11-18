@@ -1,8 +1,7 @@
 /*     
      Ejercicio: weight of planet
      Fecha: 25 de sept 2025
-     Autor: Christopher Gracia
-*/
+     Autor:  jaime
 
 let planet
 let massObject = 12;
