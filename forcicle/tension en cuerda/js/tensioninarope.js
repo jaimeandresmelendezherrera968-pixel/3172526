@@ -1,6 +1,6 @@
 /*
     Titulo: Tension in a rope
-    Autor: Christopher Alexander Gracia Jaimes
+    Autor: jaime 
     Fecha: 28 de septiembre de 2025
 */
 
