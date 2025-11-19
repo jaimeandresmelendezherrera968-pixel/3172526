@@ -1,7 +1,7 @@
 /*     
      Ejercicio: table 9 con impar y par
      Fecha: 24 de sept 2025
-     Autor: Christopher Gracia
+     Autor:  jaime
 */
 
 
