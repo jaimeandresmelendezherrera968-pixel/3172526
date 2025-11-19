@@ -1,6 +1,6 @@
 /*
     Titulo: Multiplication 
-    Autor: Christopher Alexander Gracia jaimes
+    Autor: jaime
     Fecha:septiembre de 2025
 */
 
